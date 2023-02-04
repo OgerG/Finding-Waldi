@@ -13,3 +13,7 @@
  SEE OPEN AI EXample Page BElow
  
  https://platform.openai.com/examples
+ 
+ Here Are some GOOD Examples for AI Generating its own CODE..  Special NOTE  Not for the  D or the I ..
+ 
+ https://medium.com/analytics-vidhya/ai-generates-code-using-python-and-openais-gpt-3-2ddc95047cba
